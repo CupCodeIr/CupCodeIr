@@ -2,7 +2,7 @@
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning new front-end development frameworks
 - 💞️ I’m looking to collaborate on web development projects
-- 📫 You can reach me out at info@cupcode.xyz
+- 📫 You can reach me out at cupcodeir@gmail.com
 
 <!---
 CupCodeIr/CupCodeIr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
